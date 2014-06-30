@@ -20,4 +20,8 @@ UILongPressGestureRecognizer *recognizer = [[UILongPressGestureRecognizer alloc]
 For the menu to appear, the target view must be in the responder chain. 
 Many UIKit views can't become a responder by default, so you may need to subclass them to return **YES** for **canBecomeFirstResponder**.
 
-![Screenshot of UIMenuController example app](screenshot.png)
+<p align="center" >
+<a href="http://s1282.photobucket.com/user/jigarm_0809/media/screenshot_zpsfb0daa28.png.html" target="_blank"><img src="http://i1282.photobucket.com/albums/a534/jigarm_0809/screenshot_zpsfb0daa28.png" border="0" alt="Screnshot with UIMenu Items photo screenshot_zpsfb0daa28.png" width="266" height="500"/></a>
+
+<a href="http://s1282.photobucket.com/user/jigarm_0809/media/iOSSimulatorScreenShot30-Jun-201441536pm_zpsf999485c.png.html" target="_blank"><img src="http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot30-Jun-201441536pm_zpsf999485c.png" border="0" alt="UIMenuview Items photo iOSSimulatorScreenShot30-Jun-201441536pm_zpsf999485c.png" width="266" height="500"/></a>
+</p>
