@@ -25,3 +25,5 @@ Many UIKit views can't become a responder by default, so you may need to subclas
 
 <a href="http://s1282.photobucket.com/user/jigarm_0809/media/iOSSimulatorScreenShot30-Jun-201441536pm_zpsf999485c.png.html" target="_blank"><img src="http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot30-Jun-201441536pm_zpsf999485c.png" border="0" alt="UIMenuview Items photo iOSSimulatorScreenShot30-Jun-201441536pm_zpsf999485c.png" width="266" height="500"/></a>
 </p>
+
+## License
